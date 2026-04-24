@@ -53,8 +53,8 @@
   <tr>
     <td colspan="2" align="center">
       <br>
-      <img src="20260307_115656.jpg" width="48%">
-      <img src="20260307_115717.jpg" width="48%">
+      <img src="Screenshot_20260424-102826.png" width="48%">
+      <img src="Screenshot_20260424-102841.png" width="48%">
     </td>
   </tr>
 </table>
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-| MSR PatcH Community | MSR PatcH (Main Channel) |
+| MSR PatcH Discussion | MSR PatcH (Main Channel) |
 | :---: | :---: |
 | [![MSR-PatcH Discussion](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@msrpatchchat&style=for-the-badge&label=%20MSR-PatcH%20Discussion%20&color=EC4899)](https://t.me/msrpatchchat) | [![MSR PatcH](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@msrpatch&style=for-the-badge&label=%20MSR%20PatcH%20&color=8B5CF6)](https://t.me/msrpatch) |
 
