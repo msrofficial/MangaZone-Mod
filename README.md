@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.png" width="120" alt="OnStream Logo">
+  <img src="images.jpeg" width="120" alt="MangaZone Logo">
   
   <h2>What is MangaZone Mod?</h2>
   <p>MangaZone is a free Android application designed for reading English-translated manga.</p>
@@ -66,7 +66,7 @@
   </a>
   <br><br>
 
-## Community
+## Join Community:
 
 <div align="center">
 
